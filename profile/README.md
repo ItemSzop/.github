@@ -24,6 +24,4 @@ Do you have a Minecraft server and want to earn money from it? ItemSzop is the p
 
 **Link to discord server:** https://discord.com/invite/Nx28v3yAER
 
-**Link to nuxt 3 preview:** https://nuxt3.itemszop.pages.dev
-
 **Link to main website:** https://itemszop.tk
