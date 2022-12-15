@@ -1,10 +1,10 @@
-# ItemSzop - The Best Minecraft Server Shop
+# ShopMc - The Best Minecraft Server Shop
 
-Do you have a Minecraft server and want to earn money from it? ItemSzop is the perfect choice for you!
+Do you have a Minecraft server and want to earn money from it? ShopMc is the perfect choice for you!
 
-## Why is ItemSzop the best?
+## Why is ShopMc the best?
 
-- **Free**: There are no pricing plans here. ItemSzop is completely free, making it a strong competitor against other server shops.
+- **Free**: There are no pricing plans here. ShopMc is completely free, making it a strong competitor against other server shops.
 
 - **No hosting needed**: Thanks to the SaaS architecture, you don't have to worry about the technical side. You can also connect your own domain.
 
@@ -24,4 +24,4 @@ Do you have a Minecraft server and want to earn money from it? ItemSzop is the p
 
 **Link to discord server:** https://discord.com/invite/Nx28v3yAER
 
-**Link to main website:** https://itemszop.tk
+**Link to main website:** https://shopmc.app
