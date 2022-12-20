@@ -22,6 +22,17 @@ Do you have a Minecraft server and want to earn money from it? ShopMc is the per
 
 - **Support**: We have created a discord server where you can ask questions, make suggestions or report technical issues.
 
+## Invitation to Collaborate on the ShopMc Project
+Thank you for expressing interest in our project, ShopMc. We would like to invite you to collaborate with us as a volunteer.
+
+Our project is free of charge, so there are no profits to be made, but you will have the opportunity to gain valuable experience working in a team and learning new technologies. You will have the chance to work on an interesting project that could be a good reference on your CV.
+
+We encourage you to join us on our Discord server or on Github, where you can see current tasks and choose something that interests you. Together with other developers, we will create a cohesive team and hope that you will have a pleasant experience with us.
+
+We invite you to join us and hope that you will be willing to help us in the development of the ShopMc project.
+
+## Links
+
 **Link to discord server:** https://discord.com/invite/Nx28v3yAER
 
 **Link to main website:** https://shopmc.app
